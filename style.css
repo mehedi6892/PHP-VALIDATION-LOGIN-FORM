@@ -1,0 +1,19 @@
+/*** GOOGLE FONTS****/
+<link href="https://fonts.googleapis.com/css?family=Josefin+Sans:100,300,400,600,700|Poppins:100,300,400,500,600,700&display=swap" rel="stylesheet">
+
+/* GLOBSL CSS */
+
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    color: #161616;
+}
+
+h1, h2, h3, h4, h5,h6 {
+    font-family: 'Poppins', sans-serif;
+    color: #333;
+}
+
+p{
+    font-size: 16px;
+    color: #161616;
+}
